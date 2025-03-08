@@ -1,1 +1,3 @@
-# ExeJava
+# Java
+
+Exercícios simples em Java.
